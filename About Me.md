@@ -32,7 +32,7 @@ Detail-oriented Business Analyst with 4 years of experience delivering end-to-en
 
 ### 📂 Featured Projects
 
-- [Medicare Market Saturation & Utilization Analysis](https://github.com/<KirtiKankaria>/medicare-market-saturation)  
+- [Medicare Market Saturation & Utilization Analysis](https://github.com/KirtiKankaria/Medicare-Market-Saturation-Utilization-Analysis)  
   Explores how Medicare market saturation impacts county-level health rankings using machine learning and interactive Power BI dashboards.  
 
 - [Predictive Maintenance for Machines](https://github.com/<KirtiKankaria>/predictive-maintenance-machines)  
