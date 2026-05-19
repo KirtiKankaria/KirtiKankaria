@@ -1,4 +1,4 @@
-<img src="Finding Patterns Most People Scroll Past.png" width="100%" /><h1 align="center">Hi, I'm Kirti 👋</h1>
+<img src="Banner.png" width="100%" /><h1 align="center">Hi, I'm Kirti 👋</h1>
 
 
 <p align="center">
