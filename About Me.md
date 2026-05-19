@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kirti 👋</h1>
+<img src="Finding Patterns Most People Scroll Past.png" width="100%" /><h1 align="center">Hi, I'm Kirti 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Finding+Patterns+Most+People+Scroll+Past;Data+Analyst+%7C+BI+Developer;Turning+Messy+Data+Into+Stories" />
