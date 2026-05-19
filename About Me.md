@@ -92,3 +92,4 @@ Predicts machine failures using ML models (Random Forest, Gradient Boosting, Log
 ## 📫 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/kirti-kankaria/)
+[About Me](https://github.com/KirtiKankaria/KirtiKankaria/blob/main/About%20Me.md)
