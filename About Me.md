@@ -1,39 +1,103 @@
-## Hi, I'm Kirti Kankaria 👋
+<h1 align="center">Hi, I'm Kirti 👋</h1>
 
-🎓 Master's in Business Analytics (Oakland University, Class of 2025)  
-📍 Michigan, USA  
-📞 kirtikankaria08@gmail.com | LinkedIn
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Finding+Patterns+Most+People+Scroll+Past;Data+Analyst+%7C+BI+Developer;Turning+Messy+Data+Into+Stories" />
+</p>
 
----
-
-Detail-oriented Business Analyst with 4 years of experience delivering end-to-end solutions in healthcare and financial services. I thrive on translating complex business needs into efficient, data-driven outcomes through a blend of domain expertise and technical skills. Whether it's AI/ML-powered credit scoring or dashboard reporting, I focus on making data actionable and accessible for organizations.
-
----
-
-### 👩‍💻 What I Do
-
-- Requirements Gathering & Process Modeling: Capture business needs, design process flows (BPM), and develop use cases for digital transformation projects.
-- Advanced Analytics & AI/ML Integration: Implement predictive analytics, credit scoring solutions, and forecasting models using Python, SQL, and machine learning libraries.
-- Dashboard & Reporting Solutions: Build interactive dashboards and financial/operational reports in Power BI, Tableau, and Excel to support strategic decision-making.
-- Project Management & Collaboration: Facilitate Agile Scrum ceremonies, manage backlogs, and drive cross-functional team success with tools like JIRA, Confluence, and Trello.
-- Documentation & Stakeholder Engagement: Deliver clear BRDs, FRDs, and user manuals, and ensure seamless communication across technical and non-technical audiences.
-- Compliance & Process Improvement: Support regulatory compliance (HIPAA, SOX, GDPR) and drive operational excellence with Lean Six Sigma methods.
+<p align="center">
+  🎓 Master's in Business Analytics (Oakland University, Class of 2025)
+  <br>
+  📍 Michigan, USA
+  <br>
+  📫 kirtikankaria08@gmail.com
+</p>
 
 ---
 
-### 🚀 Career Interests
+<h2 align="center">📊 GitHub Analytics</h2>
 
-- Data Science & Analytics  
-- Product Analytics  
-- Business Analysis  
-- Digital Transformation in Healthcare & Finance
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KirtiKankaria&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiKankaria&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+---
+
+## ✨ What I Actually Enjoy
+
+I love finding patterns hidden inside messy data.
+
+Sometimes it's a hospital utilization trend.  
+Sometimes it's a dashboard nobody wants to build.  
+Sometimes it's figuring out why students quietly drop out of programs.  
+
+That’s the part I enjoy most:
+finding the story people missed.
 
 ---
 
-### 📂 Featured Projects
+## 🚀 Things I’ve Built That Actually Helped People
 
-- [Medicare Market Saturation & Utilization Analysis](https://github.com/KirtiKankaria/Medicare-Market-Saturation-Utilization-Analysis/blob/main/README.md)  
-  Explores how Medicare market saturation impacts county-level health rankings using machine learning and interactive Power BI dashboards.  
+🧠 Built dashboards that helped university teams track student program retention  
 
-- [Predictive Maintenance for Machines](https://github.com/KirtiKankaria/predictive-maintenance-machines/blob/main/README.md)  
-  Predicts machine failures using ML models (Random Forest, Gradient Boosting, Logistic Regression) to optimize preventive maintenance.  
+📊 Automated reporting workflows that replaced manual spreadsheet tracking  
+
+⚡ Connected live datasets to interactive Power BI dashboards for decision-making  
+
+---
+
+## 🔍 Currently Obsessed With
+
+- Finding weird trends in healthcare datasets
+- Building dashboards people actually enjoy using
+- Turning ugly Excel sheets into something meaningful
+- Exploring AI + analytics workflows
+
+---
+
+## 📌 What I Bring
+
+- I bridge business problems with technical solutions
+- I explain data without making it boring
+- I build dashboards people can actually use
+- I enjoy solving operational chaos with automation
+
+---
+
+## 📂 Featured Projects
+
+### 📈 Medicare Market Saturation & Utilization Analysis
+Explores how Medicare market saturation impacts county-level health rankings using machine learning and interactive Power BI dashboards.
+
+🔗 [View Project](https://github.com/KirtiKankaria/Medicare-Market-Saturation-Utilization-Analysis/blob/main/README.md)
+
+---
+
+### 🤖 Predictive Maintenance for Machines
+Predicts machine failures using ML models (Random Forest, Gradient Boosting, Logistic Regression) to optimize preventive maintenance.
+
+🔗 [View Project](https://github.com/KirtiKankaria/predictive-maintenance-machines/blob/main/README.md)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black" />
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/kirti-kankaria/)
